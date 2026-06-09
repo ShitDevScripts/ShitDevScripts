@@ -41,17 +41,19 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GR-Scripts-25&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## � Repository Stats
+## 📂 Repository Stats
 
 <div align="center">
 
-| Repository | ⭐ Stars | 🍴 Forks |
-|------------|----------|----------|
-| **[RxScripts-items](https://github.com/GR-Scripts-25/RxScripts-items)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/RxScripts-items?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/RxScripts-items?style=social) |
-| **[GR-ShellSpawner](https://github.com/GR-Scripts-25/GR-ShellSpawner)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/GR-ShellSpawner?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/GR-ShellSpawner?style=social) |
-| **[cdn-fuel](https://github.com/GR-Scripts-25/cdn-fuel)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/cdn-fuel?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/cdn-fuel?style=social) |
-| **[fmLib](https://github.com/GR-Scripts-25/fmLib)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/fmLib?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/fmLib?style=social) |
-| **[onx vehicle images](https://github.com/GR-Scripts-25/onx_vehicle_images)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/onx_vehicle_images?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/onx_vehicle_images?style=social) |
+| Repository | Description | ⭐ Stars | 🍴 Forks |
+|------------|-------------|----------|----------|
+| **[RxScripts-items](https://github.com/GR-Scripts-25/RxScripts-items)** | Item and inventory scripts for QBCore | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/RxScripts-items?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/RxScripts-items?style=social&label=) |
+
+| **[GR-Scripts-25](https://github.com/GR-Scripts-25/GR-Scripts-25)** | Main FiveM resource collection | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/GR-Scripts-25?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/GR-Scripts-25?style=social&label=) |
+
+| **[one_inventory-snippets](https://github.com/GR-Scripts-25/one_inventory-snippets)** | Inventory helper snippets | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/one_inventory-snippets?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/one_inventory-snippets?style=social&label=) |
+
+| **[onx_vehicle_images](https://github.com/GR-Scripts-25/onx_vehicle_images)** | Vehicle image gallery tool | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/onx_vehicle_images?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/onx_vehicle_images?style=social&label=) |
 
 </div>
 
