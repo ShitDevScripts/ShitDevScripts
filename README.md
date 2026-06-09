@@ -48,11 +48,8 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 | Repository | Description | ⭐ Stars | 🍴 Forks |
 |------------|-------------|----------|----------|
 | **[RxScripts-items](https://github.com/GR-Scripts-25/RxScripts-items)** | Item and inventory scripts for QBCore | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/RxScripts-items?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/RxScripts-items?style=social&label=) |
-
 | **[GR-Scripts-25](https://github.com/GR-Scripts-25/GR-Scripts-25)** | Main FiveM resource collection | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/GR-Scripts-25?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/GR-Scripts-25?style=social&label=) |
-
 | **[one_inventory-snippets](https://github.com/GR-Scripts-25/one_inventory-snippets)** | Inventory helper snippets | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/one_inventory-snippets?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/one_inventory-snippets?style=social&label=) |
-
 | **[onx_vehicle_images](https://github.com/GR-Scripts-25/onx_vehicle_images)** | Vehicle image gallery tool | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/onx_vehicle_images?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/onx_vehicle_images?style=social&label=) |
 
 </div>
