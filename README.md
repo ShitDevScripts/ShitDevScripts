@@ -47,9 +47,7 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 
 | Repository | Description | ⭐ Stars | 🍴 Forks |
 |------------|-------------|----------|----------|
-| **[RxScripts-items](https://github.com/ShitDevScripts/RxScripts-items)** | Item and inventory scripts for QBCore | ![GitHub stars](https://img.shields.io/github/stars/ShitDevScripts/RxScripts-items?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/ShitDevScripts/RxScripts-items?style=social&label=) |
 | **[one_inventory-snippets](https://github.com/ShitDevScripts/one_inventory-snippets)** | Inventory helper snippets | ![GitHub stars](https://img.shields.io/github/stars/ShitDevScripts/one_inventory-snippets?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/ShitDevScripts/one_inventory-snippets?style=social&label=) |
-| **[onx_vehicle_images](https://github.com/ShitDevScripts/onx_vehicle_images)** | Vehicle image gallery tool | ![GitHub stars](https://img.shields.io/github/stars/ShitDevScripts/onx_vehicle_images?style=social&label=) | ![GitHub forks](https://img.shields.io/github/forks/ShitDevScripts/onx_vehicle_images?style=social&label=) |
 
 </div>
 
